@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55698777.css",
+    "main.js": "/static/js/main.5e27ffcc.js",
+    "static/media/VarelaRound-Regular.otf": "/static/media/VarelaRound-Regular.6b0ad79431843e696f58.otf",
+    "static/media/CircularStd-Bold.otf": "/static/media/CircularStd-Bold.5c4514a8399ec0064b9b.otf",
+    "index.html": "/index.html",
+    "main.55698777.css.map": "/static/css/main.55698777.css.map",
+    "main.5e27ffcc.js.map": "/static/js/main.5e27ffcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55698777.css",
+    "static/js/main.5e27ffcc.js"
+  ]
+}
